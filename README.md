@@ -10,3 +10,11 @@ using the dot syntax
 
 cmds:
 irb creates a 'node-type' enviroment in the terminal.
+
+.rb creates ruby file
+
+methods:
+
+puts = console.log
+
+no need to declare objects
